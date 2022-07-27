@@ -43,7 +43,7 @@ body {
 
 .img {
   display: inline-block;
-  background: url(/img/img-6.jpg) no-repeat center top;
+  background: url(img-6.jpg) no-repeat center top;
   background-size: cover;
   height: 250px;
   width: 100vw;
